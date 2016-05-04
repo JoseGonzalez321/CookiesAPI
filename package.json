@@ -1,0 +1,17 @@
+{
+  "name": "real-cookies2",
+  "version": "0.0.1",
+  "description": "Get me some cookies!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "cookies"
+  ],
+  "author": "Jose Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
